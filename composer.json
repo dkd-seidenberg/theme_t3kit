@@ -32,7 +32,7 @@
   "require": {
     "php": "^7.0",
     "typo3/cms": "~8.7.6",
-    "dmitryd/typo3-realurl": "~2.2.1",
+    "dmitryd/typo3-realurl": "2.6.3",
     "typo3-themes/themes": "~8.7.0",
     "gridelementsteam/gridelements": "8.8.2 as 8.2.1",
     "apache-solr-for-typo3/solr": "~6.1.0",
